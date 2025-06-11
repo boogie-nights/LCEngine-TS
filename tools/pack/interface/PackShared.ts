@@ -117,7 +117,7 @@ function nameToStat(name: string) {
             return 9;
         case 'fishing':
             return 10;
-        case 'firemaking':
+        case 'survival':
             return 11;
         case 'crafting':
             return 12;

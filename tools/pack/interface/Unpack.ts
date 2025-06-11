@@ -307,7 +307,7 @@ function statToName(stat: number) {
         case 10:
             return 'fishing';
         case 11:
-            return 'firemaking';
+            return 'survival';
         case 12:
             return 'crafting';
         case 13:

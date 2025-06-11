@@ -14,7 +14,7 @@ const stats: (string | null)[] = [
     'woodcutting',
     'fletching',
     'fishing',
-    'firemaking',
+    'survival',
     'crafting',
     'smithing',
     'mining',
